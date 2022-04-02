@@ -113,10 +113,10 @@
     "description": "RF - Credit Risk Pipeline_TAI_demo",
     "asset_type": "wml_model",
     "asset_category": "USER",
-    "resource_key": "c5688102-41ed-4ff5-b67e-da406e72ca43",
+    "resource_key": "21b9fcac-5d3d-4d0c-a909-2085083cff97",
     "origin_country": "US",
-    "created_at": "2022-04-01T23:13:10Z",
-    "created": 1648854790933,
+    "created_at": "2022-04-02T00:21:39Z",
+    "created": 1648858899946,
     "asset_id": "wml_model.RFCreditRiskPipelineTAIdemo",
     "asset_attributes": [
       "wml_model"
@@ -128,8 +128,8 @@
       "user_data": {
         "content_format": "native"
       },
-      "created_at": "2022-04-01T23:13:14Z",
-      "id": "48749748-7d64-406a-b886-9b1e0d592134",
+      "created_at": "2022-04-02T00:21:43Z",
+      "id": "01ae3b24-9cc2-4443-81f6-f5b3078c0f1b",
       "is_managed": true,
       "is_referenced": false,
       "is_remote": false,

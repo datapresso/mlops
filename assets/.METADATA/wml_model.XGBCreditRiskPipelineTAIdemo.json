@@ -113,10 +113,10 @@
     "description": "XGB - Credit Risk Pipeline_TAI_demo",
     "asset_type": "wml_model",
     "asset_category": "USER",
-    "resource_key": "03b04212-b091-4e6a-873f-1304e62d4770",
+    "resource_key": "69330e07-a15a-4b33-a820-6fdbba578a0d",
     "origin_country": "US",
-    "created_at": "2022-04-01T23:13:20Z",
-    "created": 1648854800451,
+    "created_at": "2022-04-02T00:21:53Z",
+    "created": 1648858913349,
     "asset_id": "wml_model.XGBCreditRiskPipelineTAIdemo",
     "asset_attributes": [
       "wml_model"
@@ -128,8 +128,8 @@
       "user_data": {
         "content_format": "native"
       },
-      "created_at": "2022-04-01T23:13:20Z",
-      "id": "a833766c-f012-40e6-979e-cba9cfda5f98",
+      "created_at": "2022-04-02T00:21:53Z",
+      "id": "9b5c9d90-117b-4815-9be6-480a9d3a560a",
       "is_managed": true,
       "is_referenced": false,
       "is_remote": false,
