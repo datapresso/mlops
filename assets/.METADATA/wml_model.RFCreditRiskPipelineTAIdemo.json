@@ -1,0 +1,139 @@
+{
+  "entity": {
+    "wml_model": {
+      "training_data_references": [
+        {
+          "connection": {
+            "access_key_id": "not_applicable",
+            "endpoint_url": "not_applicable",
+            "secret_access_key": "not_applicable"
+          },
+          "id": "1",
+          "location": {},
+          "schema": {
+            "fields": [
+              {
+                "name": "checkingstatus",
+                "type": "object"
+              },
+              {
+                "name": "loanduration",
+                "type": "float64"
+              },
+              {
+                "name": "credithistory",
+                "type": "object"
+              },
+              {
+                "name": "loanpurpose",
+                "type": "object"
+              },
+              {
+                "name": "loanamount",
+                "type": "float64"
+              },
+              {
+                "name": "existingsavings",
+                "type": "object"
+              },
+              {
+                "name": "employmentduration",
+                "type": "object"
+              },
+              {
+                "name": "installmentpercent",
+                "type": "float64"
+              },
+              {
+                "name": "sex",
+                "type": "object"
+              },
+              {
+                "name": "othersonloan",
+                "type": "object"
+              },
+              {
+                "name": "currentresidenceduration",
+                "type": "float64"
+              },
+              {
+                "name": "ownsproperty",
+                "type": "object"
+              },
+              {
+                "name": "age",
+                "type": "float64"
+              },
+              {
+                "name": "installmentplans",
+                "type": "object"
+              },
+              {
+                "name": "housing",
+                "type": "object"
+              },
+              {
+                "name": "existingcreditscount",
+                "type": "float64"
+              },
+              {
+                "name": "job",
+                "type": "object"
+              },
+              {
+                "name": "dependents",
+                "type": "float64"
+              },
+              {
+                "name": "telephone",
+                "type": "object"
+              },
+              {
+                "name": "foreignworker",
+                "type": "object"
+              }
+            ],
+            "id": "1",
+            "type": "DataFrame"
+          },
+          "type": "fs"
+        }
+      ],
+      "label_column": "risk",
+      "software_spec": {
+        "base_id": "ab9e1b80-f2ce-592c-a7d2-4f2344f77194",
+        "name": "default_py3.8"
+      },
+      "ml_version": "4.0.12",
+      "type": "scikit-learn_0.23"
+    }
+  },
+  "metadata": {
+    "name": "RF - Credit Risk Pipeline_TAI_demo",
+    "description": "RF - Credit Risk Pipeline_TAI_demo",
+    "asset_type": "wml_model",
+    "asset_category": "USER",
+    "resource_key": "c5688102-41ed-4ff5-b67e-da406e72ca43",
+    "origin_country": "US",
+    "created_at": "2022-04-01T23:13:10Z",
+    "created": 1648854790933,
+    "asset_id": "wml_model.RFCreditRiskPipelineTAIdemo",
+    "asset_attributes": [
+      "wml_model"
+    ]
+  },
+  "attachments": [
+    {
+      "asset_type": "wml_model",
+      "user_data": {
+        "content_format": "native"
+      },
+      "created_at": "2022-04-01T23:13:14Z",
+      "id": "48749748-7d64-406a-b886-9b1e0d592134",
+      "is_managed": true,
+      "is_referenced": false,
+      "is_remote": false,
+      "transfer_complete": true
+    }
+  ]
+}
